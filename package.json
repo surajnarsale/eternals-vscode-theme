@@ -1,0 +1,28 @@
+{
+    "name": "eternals",
+    "displayName": "Eternals",
+    "description": "A VS Code theme for eternal coding hours.",
+    "version": "0.0.1",
+    "publisher": "surajnarsale",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Night Theme",
+        "Eternals",
+        "Accessible Theme"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Eternals",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Eternals-color-theme.json"
+        }]
+    }
+}
