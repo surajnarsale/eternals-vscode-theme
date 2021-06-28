@@ -1,29 +1,40 @@
 {
-    "name": "eternals",
-    "displayName": "Eternals",
-    "description": "A VS Code theme for eternal coding hours.",
-    "version": "0.0.1",
-    "publisher": "surajnarsale",
-    "license": "SEE LICENSE IN LICENSE.md",
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "keywords": [
-        "Theme",
-        "Dark Theme",
-        "Night Theme",
-        "Eternals",
-        "Accessible Theme"
-    ],
-    "icon": "eternals-icon1.png",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [{
-            "label": "Eternals",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Eternals-color-theme.json"
-        }]
-    }
+	"name": "eternals",
+	"displayName": "Eternals",
+	"description": "A VS Code theme for eternal coding hours.",
+	"version": "0.0.1",
+	"publisher": "SurajNarsale",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/surajnarsale/eternals-vscode-theme"
+	},
+	"engines": {
+		"vscode": "^1.57.0"
+	},
+	"keywords": [
+		"theme",
+		"dark Theme",
+		"night Theme",
+		"Eternals",
+		"eternals",
+		"eternals theme",
+		"eternal theme",
+		"Eternal",
+		"eternal",
+		"Accessible Theme"
+	],
+	"icon": "eternals-icon1.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Eternals",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Eternals-color-theme.json"
+			}
+		]
+	}
 }
