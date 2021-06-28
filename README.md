@@ -1,23 +1,35 @@
- 	
-[![Version](https://img.shields.io/badge/Made%20for%20VSCode-v0.0.1-1f425f.svg)]()
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)]() 
+[![Version](https://img.shields.io/badge/Eternals-v0.0.1-1f425f.svg)]()
+
+
+
 
 
  <div align="center">
-  <h1 align="center" href="https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme"><a>Eternals</a></h1><img src="./eternals-icon2.png">
-  
+  <h1 align="center" href=""><a>Eternals</a></h1><img src="./eternals-icon2.png">
 </div>
 
+The Eternals Theme is a dark syntax theme. Eternals Theme has many custom made visual aids to help you code faster and more accurate.
+
+## Install
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `Eternals theme`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **Eternals**
 
 ## SCREENSHOT
-![ScreenShot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7d7pyzpvstb50k0vvjii.png)
+![ScreenShot](/previews/react-preview.png)
 
 ### Default theme
-![ScreenShot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ba7ljd2mr178rrtpicqv.png)
+![ScreenShot](/previews/default-preview.png)
 
 ### Terminal
-![ScreenShot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ic9qyfmr0pcysu0e816d.png)
+![ScreenShot](/previews/terminal-preview.png)
 
 ### Markdown preview style
 
-![Markdown](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u0wgpknw2g5gbltpiw26.png)
+![Markdown](/previews/markdown-preview.png)
 
