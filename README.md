@@ -5,9 +5,13 @@
 
 
 
- <div align="center">
-  <h1 align="center" href=""><a>Eternals</a></h1><img src="./eternals-icon2.png">
+<div align="center">
+  <h1 align="center" href=""><a>Eternals</a></h1>
+
+  ![ScreenShot](https://i.imgur.com/6BFsIo6.png)
 </div>
+
+
 
 The Eternals Theme is a dark syntax theme. Eternals Theme has many custom made visual aids to help you code faster and more accurate.
 
