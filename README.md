@@ -21,15 +21,15 @@ The Eternals Theme is a dark syntax theme. Eternals Theme has many custom made v
 7.  From the menu bar click: Code > Preferences > Color Theme > **Eternals**
 
 ## SCREENSHOT
-![ScreenShot](/previews/react-preview.png)
+![ScreenShot](https://i.imgur.com/iiPSq74.png)
 
 ### Default theme
-![ScreenShot](/previews/default-preview.png)
+![ScreenShot](https://i.imgur.com/JL5Rlqz.png)
 
 ### Terminal
-![ScreenShot](/previews/terminal-preview.png)
+![ScreenShot](https://i.imgur.com/gBF49Fg.png)
 
 ### Markdown preview style
 
-![Markdown](/previews/markdown-preview.png)
+![Markdown](https://i.imgur.com/jd2ALjh.png)
 
